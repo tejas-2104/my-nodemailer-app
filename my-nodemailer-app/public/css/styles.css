@@ -1,0 +1,6 @@
+body { font-family: Arial, sans-serif; }
+form { max-width: 400px; margin: auto; padding: 1em; border: 1px solid #ccc; }
+div { margin-bottom: 1em; }
+label { display: block; margin-bottom: .5em; }
+input, textarea { width: 100%; padding: .5em; }
+button { padding: .5em; background: #007BFF; color: white; border: none; }
